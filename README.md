@@ -36,3 +36,9 @@ Application parts are:
 Ref: https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/app
 
 Ref: https://github.com/tiangolo/full-stack-fastapi-postgresql/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend/app/app
+
+
+MongoDB with FastAPI: https://developer.mongodb.com/quickstart/python-quickstart-fastapi/
+
+Setup Model with MongoDB: https://testdriven.io/blog/fastapi-mongo/
+
