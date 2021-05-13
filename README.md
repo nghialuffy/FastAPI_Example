@@ -34,4 +34,5 @@ Application parts are:
 
 
 Ref: https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/app
+
 Ref: https://github.com/tiangolo/full-stack-fastapi-postgresql/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend/app/app
